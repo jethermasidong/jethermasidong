@@ -2,13 +2,7 @@
 
   <!-- Hero Section -->
   <h1>Hi 👋, I'm Jether Masidong</h1>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web3+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </p>
 
-  <a href="https://komarev.com/ghpvc/?username=jethermasidong">
-    <img src="https://komarev.com/ghpvc/?username=jethermasidong&label=Profile%20views&color=00BFFF&style=flat-square" alt="Profile views" />
-  </a>
 </div>
 
 ---
