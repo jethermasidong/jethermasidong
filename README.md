@@ -1,75 +1,148 @@
-<div align="center">
-
-  <!-- Hero Section -->
-  <h1>Hi 👋, I'm Jether Masidong</h1>
-
-</div>
-
----
-
-### 📌 About Me
-I am a **Full Stack Developer** passionate about building clean, efficient, and scalable software. I thrive at the intersection of **logic and design**, delivering solutions that are both functional and user-friendly.
-
----
-
-### 🧠 Focus Areas
-- 🌐 **Frontend:** Responsive & interactive interfaces  
-- ⚙️ **Backend:** APIs & server architecture  
-- 🗄️ **Database:** Design & optimization  
-- 🚀 **Performance:** Speed & scalability  
-- ⛓️ **Web3:** Blockchain & decentralized apps  
-- 🎨 **UX Design:** Intuitive user experiences  
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jethermasidong&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jethermasidong&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=jethermasidong&theme=github_dark&hide_border=true" width="97%" />
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages & Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,php,react,vue,nextjs,html,css,tailwind" />
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Web+Developer;Node.js+%7C+React+%7C+MySQL;Always+Learning+New+Technologies" />
 </p>
 
-#### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,postgres,sqlite" />
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+
+<h3 align="center">
+Passionate Full-Stack Web Developer from the Philippines 🇵🇭
+</h3>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Web Developer
+- 🌱 Currently learning **Cloud Computing, SAP, DevOps, and System Design**
+- 🎯 Interested in **Web Applications, APIs, AI Integration, and Blockchain**
+- ⚡ Love building real-world systems that solve practical problems
+- 📚 Always learning new technologies
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,java,python" />
 </p>
 
-#### 🛠️ Tools & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,jenkins,git,vscode,figma,postman,vite" />
+### ⚙️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+### 🔥 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,prisma,firebase" />
+</p>
+
+### ☁️ Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=cloudflare,vercel,netlify,docker,githubactions" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
 </p>
 
 ---
 
-### 🔗 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/jethermasidong/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jethermasidong05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://jethermasidong.code">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</div>
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=jethermasidong&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jethermasidong&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-<div align="center">
-  <blockquote style="font-style:italic;color:#555;">"First, solve the problem. Then, write the code."</blockquote>
-  
-  <a href="https://www.buymeacoffee.com/chamidudili">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160" />
-  </a>
-</div>
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jethermasidong&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📉 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jethermasidong&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jethermasidong&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🔥 3D Contribution Heatmap
+
+> This section is generated automatically using GitHub Actions.
+
+<p align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+
+</p>
+
+---
+
+# 📫 Connect with Me
+
+<p>
+
+<a href="https://github.com/jethermasidong">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:jethermasidong">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jethermasidong&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+
+⭐️ Thanks for visiting my profile!
+
+</p>
