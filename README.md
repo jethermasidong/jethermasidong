@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Web+Developer;Node.js+%7C+React+%7C+MySQL;Always+Learning+New+Technologies" />
 </p>
 
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi, im Jether Masidong</h1>
 
 <h3 align="center">
 Passionate Full-Stack Web Developer from the Philippines 🇵🇭
@@ -13,11 +13,11 @@ Passionate Full-Stack Web Developer from the Philippines 🇵🇭
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Web Developer
-- 🌱 Currently learning **Cloud Computing, SAP, DevOps, and System Design**
-- 🎯 Interested in **Web Applications, APIs, AI Integration, and Blockchain**
-- ⚡ Love building real-world systems that solve practical problems
-- 📚 Always learning new technologies
+- Full-Stack Web Developer
+- Currently learning **Cloud Computing, SAP, DevOps, and System Design**
+- Interested in **Web Applications, APIs, AI Integration, and Blockchain**
+- Love building real-world systems that solve practical problems
+- Always learning new technologies
 
 ---
 
